@@ -1,1 +1,1 @@
-# EcommerceApp
+# Spring App Config
